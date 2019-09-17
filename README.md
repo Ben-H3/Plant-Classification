@@ -1,1 +1,2 @@
 # Plant-Classification
+This software will take as input a dataset of images of five different types of flowers (diasy, sunflower, tulip, dandelion, and rose) and use a convolutional neural network to output a classification of each image. The dataset was provided by the University of Oxford and can be accessed here — http://www.robots.ox.ac.uk/~vgg/data/flowers/17/index.html. I created this program for my high school senior project where I presented my software and was awarded a Pass with Distinction.
